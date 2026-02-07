@@ -1,0 +1,115 @@
+{
+  "name": "DO_Schema_v1",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "required": [
+      "rows"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "rows": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "coverage",
+            "value"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "coverage": {
+              "type": "string",
+              "enum": [
+                "**Section: Insurer Info**",
+                "Insurer",
+                "FSR Rating",
+                "Policy Wording",
+                "Governing Law",
+                "**Section: Overall Coverage**",
+                "Currency",
+                "Annual Premium (Ex taxes & levy)",
+                "Section Limits: D&O (Insured Person - Side A & B)",
+                "Section Limits: Corporate Liability (Entity)",
+                "Section Limits: Entity Securities Liability (Side C - Entity)",
+                "Section Limit: Employment Practice Liability (Entity)",
+                "Section Limit: Crime Loss (Entity)",
+                "Total Annual Limit",
+                "Retention or Deductible: D&O, unreimbursed by entity (Insured Person - Side A)",
+                "Retention or Deductible: D&O, reimbursed by entity (Insured Person - Side B)",
+                "Retention or Deductible: Entity Liability (Entity)",
+                "Retention or Deductible: Entity Securities Liability (Side C - Entity)",
+                "Retention or Deductible: Employment Practice Liability (Entity)",
+                "Retention or Deductible: Crime Loss (Entity)",
+                "Territorial Limits",
+                "Jurisdictional Limits",
+                "Retroactive Date",
+                "Continuity Date",
+                "Automatic Extended Reporting & Discovery Period",
+                "Additional Extended Reporting & Discovery Period",
+                "**Section: Key Coverage - Insured Person**",
+                "Management Wrongful Acts",
+                "Employment Practice Liability (Insured Person)",
+                "Workplace Safety, Manslaughter, Occupational Health & Safety Costs",
+                "Environmental, Pollution, ESG & Related Regulations",
+                "Outside Directorships",
+                "Regulatory Investigation Cost",
+                "Internal Investigation Cost",
+                "Dawn Raid, Pre-Investigation & Regulatory Raid Cost",
+                "Self-report To Regulator Cost",
+                "Civil Fines",
+                "Challenge Extradition Order",
+                "Prosecution Cost, Challenge Freezing of Assets Or Disqualification Order",
+                "Living Expenses Due To Freezing of Assets Order",
+                "Cyber & Breach Of Confidentiality Cost (Insured Person)",
+                "Insolvency Cost",
+                "Tax Liability",
+                "Mitigation Costs",
+                "Additional Limit",
+                "Reinstatement Of Limit",
+                "Emergency Costs",
+                "Public Relations Costs Related To A Claim (Insured Person)",
+                "**Section: Key Coverage - Entity**",
+                "Corporate Liability",
+                "Entity Securities Liability",
+                "Employment Practice Liability (Insured Entity)",
+                "Derivative Demand To Conduct An Investigation",
+                "Derivative Demand Coverage To Pay For Shareholder Costs",
+                "Public Relations Costs Related To A Claim (Insured Entity)",
+                "Public Relations Costs Related To A Crisis Event (Insured Entity)",
+                "Crime Loss",
+                "**Section: Key Policy Definitions & Clauses**",
+                "Coverage For Non-monetary Compensation",
+                "Coverage For Criminal Proceedings Or Lawsuits",
+                "Coverage For Current Subsidiaries",
+                "Coverage For New Subsidiaries",
+                "Insurer Consent Required To Settle A Claim",
+                "Insurer's Action If The Insured Reject Insurer Settlement Option",
+                "Recover Of Coverage Limits Due To Subrogation Clause",
+                "No Subrogation Against Employees (Except For Fraud) Clause",
+                "Innocent Non-disclosure Clause",
+                "Advancement Of Defence Cost Clause",
+                "Financial Interest Coverage Clause or Balance Sheet Loss Clause",
+                "Final Adjudication For Fraud, Intentional and Reckless Acts",
+                "Non-imputation & Severability For Fraud, Intentional & Reckless Acts",
+                "Retired Insured Persons Run-Off Cover",
+                "Order of Payments and Priority of payments",
+                "**Section: Key Exclusions & Endorsements**",
+                "Benefits, Payments Or Commission Exclusion",
+                "Anti-Trust, Fair Trading or Consumer Protection Exclusion",
+                "Crypto Or Digital Assets Exclusion",
+                "Failure To Hold A Regulatory License Exclusion",
+                "Environmental, Pollution, Clean-up Costs ESG Or Related Regulations Exclusion",
+                "Money Laundering Exclusion",
+                "Sanctions Exclusion"
+              ]
+            },
+            "value": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}
