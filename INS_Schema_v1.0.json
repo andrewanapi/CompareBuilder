@@ -1,0 +1,50 @@
+{
+  "name": "insurance_classification",
+  "description": "Schema for classifying insurance documents by underwriting insurer and insurance policy type, with confidence scoring.",
+  "schema_version": "1.0",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "insurer_name": {
+        "type": "string",
+        "enum": [
+          "Berkley Plan B",
+          "Berkshire Hathaway Specialty Insurance Company Steadfast",
+          "Zurich Insurance Company Ltd (Singapore Branch)",
+          "Others"
+        ],
+        "description": "Underwriting insurer selected from the approved insurer list"
+      },
+      "insurer_confidence": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1,
+        "description": "Confidence score for insurer identification (0.0 to 1.0)"
+      },
+      "insurance_type": {
+        "type": "string",
+        "enum": [
+          "Directors & Officers Insurance",
+          "Cyber Insurance",
+          "Misc Professional Indemnity",
+          "Investment Managers Insurance",
+          "Others"
+        ],
+        "description": "Type of insurance policy"
+      },
+      "insurance_type_confidence": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 1,
+        "description": "Confidence score for insurance type classification (0.0 to 1.0)"
+      }
+    },
+    "required": [
+      "insurer_name",
+      "insurer_confidence",
+      "insurance_type",
+      "insurance_type_confidence"
+    ],
+    "additionalProperties": false
+  }
+}
