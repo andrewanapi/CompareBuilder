@@ -1,8 +1,6 @@
 {
-  "name": "DO_Schema_v1",
-  "strict": true,
+"type": "object",
   "schema": {
-    "type": "object",
     "required": [
       "rows"
     ],
