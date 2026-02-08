@@ -1,0 +1,742 @@
+[
+  {
+    "section": "Insurer Info",
+    "key": "Insurer",
+    "bvalue": "Berkshire Hathaway Specialty Insurance Company",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Insurer Info",
+    "key": "FSR Rating",
+    "bvalue": "",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Insurer Info",
+    "key": "Policy Wording",
+    "bvalue": "BHSI-SGP-EP-EFADO-STEADFAST-001-05/2020",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Insurer Info",
+    "key": "Governing Law",
+    "bvalue": "Singapore",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Currency",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "A",
+    "anchor": "<Limit of Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Annual Premium (Ex taxes & levy)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "B",
+    "anchor": "<Annual Premium>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Section Limits: D&O (Insured Person - Side A & B)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": "<Limit of Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Section Limits: Corporate Liability (Entity)",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Section Limits: Entity Securities Liability (Side C - Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": "(Company Securities Liability Insuring Clause Amendatory (Sublimit) Endorsement) (Company Securities Cover Deleted Endorsement) <1.3 Company Securities Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Section Limit: Employment Practice Liability (Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": "<1.4 Company Employment Practices Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Section Limit: Crime Loss (Entity)",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Total Annual Limit",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "C",
+    "anchor": "<Limit of Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: D&O, unreimbursed by entity (Insured Person - Side A)",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: D&O, reimbursed by entity (Insured Person - Side B)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "D",
+    "anchor": "<1.2 Company Indemnification and 1.6B Outside Directorship Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: Entity Liability (Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "D",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: Entity Securities Liability (Side C - Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "D",
+    "anchor": "<1.3 Company Securities Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: Employment Practice Liability (Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "D",
+    "anchor": "<1.4 Company Employment Practices Liability>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retention or Deductible: Crime Loss (Entity)",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "D",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Territorial Limits",
+    "bvalue": "Worldwide",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "E",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Jurisdictional Limits",
+    "bvalue": "Worldwide",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "E",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Retroactive Date",
+    "bvalue": "Unlimited",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "F",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Continuity Date",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "F",
+    "anchor": "<Continuity Date>"
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Automatic Extended Reporting & Discovery Period",
+    "bvalue": "Yes - 90 Days Additional",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Overall Coverage",
+    "key": "Additional Extended Reporting & Discovery Period",
+    "bvalue": "Yes - Refer_To_Schedule Year Additional For Refer_To_Schedule % Premium in 60 Days",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "G",
+    "anchor": "(Extended Reporting Period Deleted Endorsement) <Extended Reporting Period>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Management Wrongful Acts",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Employment Practice Liability (Insured Person)",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "SKIP",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Workplace Safety, Manslaughter, Occupational Health & Safety Costs",
+    "bvalue": "Full Limit",
+    "mod": "(Defence cost only)",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Environmental, Pollution, ESG & Related Regulations",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Outside Directorships",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Regulatory Investigation Cost",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"An investigation, administrative or regulatory inquiry or examination by an Enforcement Authority in connection with either the business of a Company or an Insured Person in his or her capacity as such; B. A written request made upon an Insured Person (including by the service of a target letter or Wells Notice) for an interview, a meeting, sworn testimony or the production of documents from an Enforcement Authority in connection with either the business of a Company or an Insured Person in his or her capacity as such; C. An internal investigation or inquiry conducted by the Company in response to the A. or B. above.\")",
+    "ret": "Refer_To_Schedule",
+    "type": "H",
+    "anchor": "<1.5 Investigation Costs> /1.5B Investigation Costs and 1.24 Investigation Travel and Accommodation Costs/"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Internal Investigation Cost",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"An internal investigation or inquiry conducted by the Company in response to the A. or B. above.\")",
+    "ret": "Refer_To_Schedule",
+    "type": "H",
+    "anchor": "<1.5 Investigation Costs> /1.5B Investigation Costs and 1.24 Investigation Travel and Accommodation Costs/"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Dawn Raid, Pre-Investigation & Regulatory Raid Cost",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"A raid on or on-site visit to the Company or an Outside Entity by an Enforcement Authority that involves the production, review or copying of documents, or interviews of any Insured Person; B. A public announcement relating to Paragraph A.; C. Any formal notification to an Enforcement Authority of a suspected material breach of duty by an Insured Person; or D. An internal investigation conducted by the Company if and to the extent such investigation is requested by an Enforcement Authority following a formal notification given in C. above.\")",
+    "ret": "Refer_To_Schedule",
+    "type": "H",
+    "anchor": "<1.7 Pre-Investigation Costs> /1.7 Pre-Investigation Costs/"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Self-report To Regulator Cost",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"Any formal notification to an Enforcement Authority of a suspected material breach of duty by an Insured Person\")",
+    "ret": "Refer_To_Schedule",
+    "type": "H",
+    "anchor": "<1.7 Pre-Investigation Costs> /1.7 Pre-Investigation Costs/"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Civil Fines",
+    "bvalue": "Full Limit",
+    "mod": "(Missing if allowed by law statement)",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<Civil Fines or Pecuniary Penalties against Insured Person (under Definition of Loss)>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Challenge Extradition Order",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<Extradition (under Definition of Claim)>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Prosecution Cost, Challenge Freezing of Assets Or Disqualification Order",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Living Expenses Due To Freezing of Assets Order",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Cyber & Breach Of Confidentiality Cost (Insured Person)",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Insolvency Cost",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "NIL",
+    "type": "H",
+    "anchor": "<1.26 Insolvency Hearing Costs>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Tax Liability",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "NIL",
+    "type": "H",
+    "anchor": "<1.18 Tax Liability>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Mitigation Costs",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<1.28 Loss Mitigation>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Additional Limit",
+    "bvalue": "Refer_To_Schedule Additional / NIL Per Insured Person An Insured Person of the Policyholder Side A",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<1.16 Additional Limit for Policyholder Insured Persons>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Reinstatement Of Limit",
+    "bvalue": "Yes Limit of Liability in respect of any one Claim or Related Claims up to number of times stated in Item 10 of Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "(Deletion Of Automatic Reinstatement) <Automatic Reinstatement>"
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Emergency Costs",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Insured Person",
+    "key": "Public Relations Costs Related To A Claim (Insured Person)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"reasonable fees and related expenses of a public relations or crisis management firm or law firm reasonably incurred by the Insured Person in order to prevent or limit the adverse effect arising from a Claim or Investigation covered by this Policy or potential adverse effect which it is anticipated may arise from such a Claim or Investigation.\")",
+    "ret": "NIL",
+    "type": "H",
+    "anchor": "<1.12 Public Relations Costs>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Corporate Liability",
+    "bvalue": "Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Entity Securities Liability",
+    "bvalue": "Full Limit",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "(Company Securities Liability Insuring Clause Amendatory (Sublimit) Endorsement) (Company Securities Cover Deleted Endorsement) <1.3 Company Securities Liability>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Employment Practice Liability (Insured Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<1.4 Company Employment Practices Liability>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Derivative Demand To Conduct An Investigation",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "NIL",
+    "type": "H",
+    "anchor": "<1.8 Company Coverage for Security Holder Derivative Demand Investigation Costs>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Derivative Demand Coverage To Pay For Shareholder Costs",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": "<1.25 Company Coverage for Shareholder Indemnity Costs>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Public Relations Costs Related To A Claim (Insured Entity)",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Public Relations Costs Related To A Crisis Event (Insured Entity)",
+    "bvalue": "Refer_To_Schedule",
+    "mod": "",
+    "def": "(Trigger: \"reasonable costs and fees (but not including overhead and remuneration of any Insured Person or employee of the Company) incurred by the Company in retaining the services of any public relations firm, crisis management firm or executive search firm to advise the Company with respect to managing the public communication of and mitigating the disruption to the Company's business due to a Crisis Event first occurring during the Policy Period.\")",
+    "ret": "NIL",
+    "type": "H",
+    "anchor": "<1.23 Crisis Management Expenses>"
+  },
+  {
+    "section": "Key Coverage - Entity",
+    "key": "Crime Loss",
+    "bvalue": "NIL",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "H",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Lawsuits From A Major Shareholder %",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Major Shareholder Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Private Offering of Securities, Prospectus & Fundraising Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Absolute SPAC/DE-SPAC Exclusion) <Future Offering of Securities>"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Insolvency, Withdrawal of Support, Creditors & Trading Debts Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Absolute Insolvency Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Insured vs Insured Exclusion",
+    "bvalue": "Absolute Excluded only for US Claim Brought by the Company",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Intellectual Property, Trademarks Or Copyright Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Intellectual Property Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Trade Secrets Or Patents Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Intellectual Property Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Professional Services Or Professional Indemnity Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Professional Indemnity Exclusion) (Professional Indemnity Exclusion - With Carve-Back For Failure To Supervise)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Product Liability Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Product Liability Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Bodily Injury Or Property Damage Exclusion",
+    "bvalue": "Excluded Carveback for Securities Claim, Defence Costs arising from a Claim against an Insured Person, Investigation Costs resulting from an Investigation, alleging corporate manslaughter or breach of occupational health and safety legislation or regulations, Claims for mental anguish or emotional distress brought by a current, prospective or former employee of a Company in an employment-related Claim, Loss incurred by an Insured Person under Insuring Clauses 1.1, 1.5A, 1.6A",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(ABSOLUTE BODILY INJURY AND PROPERTY DAMAGE EXCLUSION)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Medical Malpractice Or Biometric Data Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Breach of Confidentiality, Cyber Attack, Ransomware, Cyber Security, Network & Data Breach Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Cyber And Data Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Dishonest, Fraudulent, Criminal & Fraud Exclusion",
+    "bvalue": "Absolute Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Reckless, Intentional & Deliberate Acts Exclusion",
+    "bvalue": "Absolute Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Bribery & Illegal Personal Gain Exclusion",
+    "bvalue": "Absolute Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Benefits, Payments Or Commission Exclusion",
+    "bvalue": "Absolute Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Anti-Trust, Fair Trading or Consumer Protection Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Crypto Or Digital Assets Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Cryptocurrency Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Failure To Hold A Regulatory License Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": ""
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Environmental, Pollution, Clean-up Costs ESG Or Related Regulations Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Pollution Exclusion-With Carveback For Defence Costs, Investigation Costs And Shareholder Action)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Money Laundering Exclusion",
+    "bvalue": "Not Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Money Laundering Exclusion)"
+  },
+  {
+    "section": "Key Exclusions & Endorsements",
+    "key": "Sanctions Exclusion",
+    "bvalue": "Excluded",
+    "mod": "",
+    "def": "",
+    "ret": "",
+    "type": "I",
+    "anchor": "(Russian, Belarus & Ukraine Exclusion) <OFAC Notice>"
+  }
+]
